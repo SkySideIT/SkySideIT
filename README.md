@@ -35,7 +35,7 @@ I'm actively working on improving and expanding them as I gain more experience.
 ---
 
 ### 📫 Let's Connect:
-- [LinkedIn]([https://www.linkedin.com/in/danail-georgiev-514871346/?trk=PROFILE_DROP_DOWN])
+- [LinkedIn](https://www.linkedin.com/in/danail-georgiev-514871346/?trk=PROFILE_DROP_DOWN)
 
 ---
 
