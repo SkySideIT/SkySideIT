@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Danail Georgiev</h1>
+<h3 align="center">Aspiring software developer from Veliki Preslav, Bulgaria 🇧🇬</h3>
 
-<!--
-**SkySideIT/SkySideIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a recent graduate from the University of Economics – Varna (2020–2024),  
+with a Bachelor's degree in *Informatics and Computer Science*.
 
-Here are some ideas to get you started:
+💻 Currently, I'm expanding my knowledge in backend development by pursuing the **full C# path at SoftUni** (2024–present).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Skills & Tech Stack:
+- Programming Languages: `C#`, `JavaScript`, `HTML`, `CSS`
+- Databases: `SQL`
+- Tools & Frameworks: `.NET`, `Entity Framework`, `Git`, `Visual Studio`, `Visual Code`
+
+---
+
+### 📁 Projects:
+Most of my projects are university-related and available in my repositories.  
+I'm actively working on improving and expanding them as I gain more experience.
+
+---
+
+### 🎯 Goals:
+- Master C# and .NET technologies
+- Build strong backend development skills
+- Collaborate on real-world projects
+
+---
+
+### 👨‍💻 A bit more about me:
+- 🏀 Passionate about basketball, gaming, movies, and spending time with friends
+- 🌱 Always curious and eager to learn more
+
+---
+
+### 📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/) *(Add your profile link here if you want)*
+
+---
+
+### 📊 GitHub Stats:
+![Danail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkySideIT&show_icons=true&theme=radical)
+
+---
