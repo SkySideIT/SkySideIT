@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Danail Georgiev</h1>
-<h3 align="center">Aspiring software developer from Veliki Preslav, Bulgaria 🇧🇬</h3>
+<h3 align="center">Aspired C# learner from Veliki Preslav, Bulgaria 🇧🇬</h3>
 
 🎓 I'm a recent graduate from the University of Economics – Varna (2020–2024),  with a Bachelor's degree in 
     *Informatics and Computer Science*.
