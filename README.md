@@ -14,8 +14,8 @@
 ---
 
 ### 📁 Projects:
-Most of my projects are university-related and available in my repositories.  
-I'm actively working on improving and expanding them as I gain more experience.
+- Most of my projects are university-related and available in my repositories.  
+- I'm actively working on improving and expanding them as I gain more experience.
 
 ---
 
