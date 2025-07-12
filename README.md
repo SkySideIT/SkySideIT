@@ -9,9 +9,7 @@
 ---
 
 ### 🧠 Skills & Tech Stack:
-- Programming Languages: `C#`, `JavaScript`, `HTML`, `CSS`
-- Databases: `SQL`
-- Tools & Frameworks: `.NET`, `Entity Framework`, `Git`, `Visual Studio`, `Visual Code`
+- Programming Languages: `C#`, `JavaScript`, `HTML`, `CSS`, `SQL`
 
 ---
 
