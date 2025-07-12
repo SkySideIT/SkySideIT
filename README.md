@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 Skills & Tech Stack:
+### 🧠 Main Skills & Tech Stack:
 - Programming Languages: `C#`, `JavaScript`, `HTML`, `CSS`, `SQL`
 
 ---
