@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I am Danail Georgiev</h1>
 <h3 align="center">Aspired C# learner from Veliki Preslav, Bulgaria 🇧🇬</h3>
 
-🎓 I'm a graduate from the University of Economics – Varna (2020–2024),  with a Bachelor's degree in 
+🎓 I am a graduate from the University of Economics – Varna (2020–2024),  with a Bachelor's degree in 
     *Informatics and Computer Science*.
 
 💻 Currently, I'm expanding my knowledge in backend development by pursuing the **full C# path at SoftUni** (2024–present).
