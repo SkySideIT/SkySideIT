@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Danail Georgiev</h1>
+<h1 align="center">Hello 👋, I am Danail Georgiev</h1>
 <h3 align="center">Aspired C# learner from Veliki Preslav, Bulgaria 🇧🇬</h3>
 
 🎓 I'm a graduate from the University of Economics – Varna (2020–2024),  with a Bachelor's degree in 
